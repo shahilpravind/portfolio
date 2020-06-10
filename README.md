@@ -1,2 +1,2 @@
-# portfolio
-Code, information and screenshots about projects stated on my CV. Projects have been organized based on how they appear in the CV.
+# CV Projects
+This repository contains code, information and screenshots of projects mentioned in my Curriculum Vitae (CV). Projects have been organized under the structure they appear in the CV for easy navigation.
