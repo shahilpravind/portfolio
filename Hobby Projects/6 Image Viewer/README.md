@@ -1,5 +1,7 @@
 # myView
-A simple photo viewer written in C++ and SFML. [Download here](https://github.com/shahilpravind/myView/releases)
+A simple photo viewer written in C++ and SFML.
+[Original upload link](https://github.com/shahilpravind/myView)
+[Windows installer and portable versions available here](https://github.com/shahilpravind/myView/releases)
 <br><br>
 
 ## Project Information
