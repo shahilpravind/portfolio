@@ -5,6 +5,7 @@ The code and files for this project cannot be released since I do not have autho
 ## Project Information
 1. Android app developed using Java and the Android SDK.
 2. Web app developed using PHP, MySQL, HTML, CSS, JavaScript, AJAX.
+3. Responsive website
 
 
 ## Android App

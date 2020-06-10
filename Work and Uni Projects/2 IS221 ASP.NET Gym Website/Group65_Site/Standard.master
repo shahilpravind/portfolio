@@ -1,0 +1,114 @@
+﻿<%@ Master Language="VB" CodeFile="Standard.master.vb" Inherits="Standard" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head runat="server">
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <meta name="description" content="Website for Titans Gym fitness company" />
+        <meta name="keywords" content="gym, health, fitness, exercise" />
+        <meta name="author" content="Shahil Avishal Pravind" />
+
+        <asp:ContentPlaceHolder id="head" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <link href="Styles/bootstrap.min.css" rel="stylesheet" />
+        <link href="Styles/Master.css" rel="stylesheet" />
+        <link href="Styles/Carousel.css" rel="stylesheet" />
+    </head>
+
+    <body>
+
+        <!-- Start navigation bar -->
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                    <img style="float: left;" src="images/logo.png" alt="logo" width="50" height="50" />
+                    <a style="font-variant:small-caps;font-size:22px" class="navbar-brand" href="Home.aspx" > &nbsp; &nbsp; Titans Gym &nbsp; </a>
+                </div>
+
+                <div id="navbar" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav">
+
+                        <li class="active"><a href="Home.aspx">Home</a></li>
+                        <li><a href="Gallery.aspx">Gallery</a></li>
+                        <li><a href="Contact.aspx">Contact Us</a></li>
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Services <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="FindGym.aspx">Find a Gym</a></li>
+                                <li><a href="Catalogue.aspx">Catalogue</a></li>
+                                <li><a href="Tutorials.aspx">Tutorials</a></li>
+                                <li><a href="Blog.aspx">Blog</a></li>
+                                <li><a href="Reviews.aspx">Reviews</a></li>
+                            </ul>
+                        </li>                        
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> About <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="AboutGym.aspx">About the Gym</a></li>
+                                <li><a href="AboutDevs.aspx">About the Developers</a></li>
+                                <li><a href="References.aspx">References</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a  runat="server" id="lblLogin" href="Login.aspx">Login &nbsp &nbsp /</a></li>
+                        <li><a  runat="server" id="lblRegister" href="Register.aspx">Register</a></li>
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div>
+        </nav>
+        <!-- End navigation bar -->
+
+
+        <form id="form1" runat="server">
+            <div>
+                <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+                </asp:ContentPlaceHolder>
+            </div>
+        </form>
+
+
+        <!-- Footer Begins Here -->
+        <div class="container">
+            <br /> <hr />
+            <footer>
+                <div class="row">
+                    <div class="col-md-6" align="left">
+                        &copy; 2017 Titans Gym. All Rights Reserved.
+                    </div>
+
+                    <div class="col-md-6" align="right">
+                        Connect with us: &nbsp; &nbsp;
+                        <a href="https://www.facebook.com/Titans-Gym-451619588512992/"><img src="images/facebook.png" alt="facebook link" width="40" height="40" /></a> &nbsp;
+                        <a href="https://twitter.com/titansgym9876"><img src="images/twitter.png" alt="twitter link" width="40" height="40" /></a> &nbsp;
+                        <a href="https://www.youtube.com/channel/UCGxT1YEcosSznplhvGhmhLA"><img src="images/youtube.png" alt="youtube link" width="40" height="40" /></a> &nbsp;
+                    </div>
+                </div>
+            </footer>
+        </div>
+        <!-- Footer Ends Here -->
+
+
+        <!-- Bootstrap core JavaScript -->
+        <script src="Scripts/jquery.min.js"></script>
+        <script>            window.jQuery || document.write('<script src="Scripts/jquery.min.js"><\/script>')</script>
+        <script src="Scripts/bootstrap.min.js"></script>
+
+    </body>
+</html>
