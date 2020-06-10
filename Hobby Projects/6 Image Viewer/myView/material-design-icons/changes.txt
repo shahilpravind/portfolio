@@ -1,0 +1,5 @@
+1. Folder structure broken, all needed icons brought to root folder. 
+2. Icons renamed.
+3. Icons not needed have been deleted.
+
+No changes have been made to the actual look/design of the icons.

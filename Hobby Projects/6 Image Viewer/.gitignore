@@ -1,0 +1,10 @@
+# Directories
+.vs/
+bin/
+storage/
+
+# Files
+*.user
+reqs.txt
+image.jpg
+image2.jpg
