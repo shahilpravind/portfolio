@@ -18,12 +18,11 @@ This repository contains the original assignment specification and files fulfill
 
 ### Home Page
 <p>
-    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/home.png" width="300" alt="Home Page 1">
-    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/home2.png" width="300" alt="Home Page 2">
-    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/home3.png" width="300" alt="Home Page 3">
-    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/home4.png" width="300" alt="Home Page 4">
+    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/home.png" width="300" alt="Home Page 1"> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/home2.png" width="300" alt="Home Page 2"> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/home3.png" width="300" alt="Home Page 3"> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/home4.png" width="300" alt="Home Page 4"> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/home5.png" width="300" alt="Home Page 5">
-    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/home6.png" width="300" alt="Home Page 6">
 </p>
 <br>
 
@@ -47,7 +46,7 @@ This repository contains the original assignment specification and files fulfill
 
 ### Tutorials
 <p>
-    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/guide.png" width="300" alt="Tutorials Page 1">
+    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/guide.png" width="300" alt="Tutorials Page 1"> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/guide2.png" width="300" alt="Tutorials Page 2">
 </p>
 <br>
@@ -60,14 +59,14 @@ This repository contains the original assignment specification and files fulfill
 
 ### Blog
 <p>
-    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/blog.png" width="300" alt="Blog Page 1">
+    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/blog.png" width="300" alt="Blog Page 1"> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/blog2.png" width="300" alt="Blog Page 2">
 </p>
 <br>
 
 ### Blog
 <p>
-    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/about.png" width="300" alt="About Page 1">
+    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/about.png" width="300" alt="About Page 1"> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/about2.png" width="300" alt="About Page 2">
 </p>
 <br>

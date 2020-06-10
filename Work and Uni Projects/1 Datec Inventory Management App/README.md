@@ -51,7 +51,7 @@ The code and files for this project cannot be released since I do not have autho
 ### Catelogue
 <p>
     <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/1%20Datec%20Inventory%20Management%20App/images/webcat-1.png" width="300" alt="Catelogue Page 1"> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/1%20Datec%20Inventory%20Management%20App/images/webcat-2.png" width="300" alt="Catelogue Page 2">
+    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/1%20Datec%20Inventory%20Management%20App/images/webcat-2.png" width="300" alt="Catelogue Page 2"> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/1%20Datec%20Inventory%20Management%20App/images/webcat-3.png" width="300" alt="Catelogue Page 3">
 </p>
 <br>
