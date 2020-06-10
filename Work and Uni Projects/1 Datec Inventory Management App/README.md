@@ -5,6 +5,6 @@ The code and files for this project cannot be released since I do not have autho
 
 ### Login Screen
 <p>
-    <img src="https://github.com/shahilpravind/myView/blob/master/misc/screenshot1.png" width="400" alt="Login Screen">
+    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/1%20Datec%20Inventory%20Management%20App/images/login.png" width="400" alt="Login Screen">
 </p>
 <br>

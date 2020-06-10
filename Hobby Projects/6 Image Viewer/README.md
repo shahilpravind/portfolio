@@ -2,7 +2,7 @@
 <p> A simple photo viewer written in C++ and SFML. </p>
 <p> [Original upload link](https://github.com/shahilpravind/myView) </p>
 <p> [Windows installer and portable versions available here](https://github.com/shahilpravind/myView/releases) </p>
-<br><br>
+<br>
 
 ## Project Information
 1. Developed using Visual Studio 2017 Community on Windows 10.
