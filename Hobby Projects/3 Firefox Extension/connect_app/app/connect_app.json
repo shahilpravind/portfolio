@@ -1,0 +1,7 @@
+{
+    "name": "connect_app",
+    "description": "",
+    "path": "D:\\Workspace\\MyProjects\\ConnectUpdate\\firefox_extension\\connect_app\\app\\connect_app_win.bat",
+    "type": "stdio",
+    "allowed_extensions": [ "connect_app@shahilpravind.com" ]
+}

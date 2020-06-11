@@ -24,19 +24,19 @@ This repository contains the original assignment specification and code for the 
 
 #### Administrator
 <p>
-    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/3%20IS224%20Vehicle%20Tracking%20Web%20App/images/admin.png" width="300" alt="Login Page">
+    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/3%20IS224%20Vehicle%20Tracking%20Web%20App/images/admin.png" width="300" alt="Administrator Home Page">
 </p>
 <br>
 
 #### Mechanic
 <p>
-    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/3%20IS224%20Vehicle%20Tracking%20Web%20App/images/mechanic.png" width="300" alt="Login Page">
+    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/3%20IS224%20Vehicle%20Tracking%20Web%20App/images/mechanic.png" width="300" alt="Mechanic Home Page">
 </p>
 <br>
 
 #### Employee
 <p>
-    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/3%20IS224%20Vehicle%20Tracking%20Web%20App/images/employee.png" width="300" alt="Login Page">
+    <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/3%20IS224%20Vehicle%20Tracking%20Web%20App/images/employee.png" width="300" alt="Employee Home Page">
 </p>
 <br>
 
