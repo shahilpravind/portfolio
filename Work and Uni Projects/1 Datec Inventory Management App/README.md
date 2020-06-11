@@ -67,3 +67,5 @@ The code and files for this project cannot be released since I do not have autho
     <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/1%20Datec%20Inventory%20Management%20App/images/webadd.png" width="300" alt="Add Item Page">
 </p>
 <br>
+
+&copy; 2020 Shahil Avishal Pravind. All rights reserved.

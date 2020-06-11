@@ -33,3 +33,5 @@ Dependencies are included in deps folder.
 
 ## License
 Apache License 2.0
+
+&copy; 2020 Shahil Avishal Pravind. All rights reserved.

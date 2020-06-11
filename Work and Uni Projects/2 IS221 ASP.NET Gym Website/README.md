@@ -82,3 +82,5 @@ This repository contains the original assignment specification and files fulfill
     <img src="https://github.com/shahilpravind/portfolio/blob/master/Work%20and%20Uni%20Projects/2%20IS221%20ASP.NET%20Gym%20Website/images/reviews.png" width="300" alt="Reviews Page">
 </p>
 <br>
+
+&copy; 2020 Shahil Avishal Pravind. All rights reserved.
