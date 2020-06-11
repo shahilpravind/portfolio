@@ -1,4 +1,4 @@
-# IS224 Assignment: Car Management for Sky University
+# IS224 Assignment: Car Management for Sky University (2017 Project)
 This repository contains the original assignment specification and code for the assignment.
 
 ## Project Information
