@@ -8,3 +8,5 @@ This project was accidentally deleted permanently and thus, there is no demo or 
     1. Android: Java, Android SDK, Android Studio, socket.io library.
     2. Web app: HTML, CSS, JavaScript, socket.io-client
     3. Web server: Node.js with socket.io library.
+
+&copy; 2020 Shahil Avishal Pravind. All rights reserved.
