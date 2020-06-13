@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Home Screen Tiles -->
+    <color name="tile1">#fe5e04</color>
+    <color name="tile2">#039bd3</color>
+    <color name="tile3">#ed3426</color>
+    <color name="tile4">#0473ba</color>
+    <color name="tile5">#cb0532</color>
+    <color name="tile6">#174e7f</color>
+</resources>
